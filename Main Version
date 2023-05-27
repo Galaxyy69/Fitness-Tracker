@@ -1,6 +1,5 @@
 // Fitness Tracker.cpp : A new beginning
-//
-#include "resource.h"
+
 #include <windows.h>
 #include <conio.h>
 #include <fstream>
